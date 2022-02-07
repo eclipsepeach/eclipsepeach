@@ -5,5 +5,5 @@
 - 🌱 빅데이터 분석 서비스 개발자 과정 2021.05.10~2021.11.08
 
 
-<a href="https://sunnyroad.tistory.com/">✏️ Tistory</a>
+<a href="https://sunnyroad.tistory.com/" target='_blank'>✏️ Tistory</a>
 
